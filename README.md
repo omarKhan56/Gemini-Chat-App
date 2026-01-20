@@ -1,4 +1,4 @@
-# Gemini Chat App
+# Gemini Chat App 
 
 A modern, dark-themed AI Chat Application inspired by Gemini AI. This app allows users to type questions, get AI-generated answers, and maintain a chat history in a sidebar. Built with **React** and **CSS**, this project demonstrates state management, API integration, and responsive UI design.
 
@@ -44,15 +44,13 @@ gemini-chat-app/
 ├─ package.json
 └─ README.md
 
-yaml
-Copy code
+
 
 ---
 
 ## 🔹 Setup & Installation
 
 1. **Clone the repository**
-
 ```bash
 git clone https://github.com/omarKhan56/gemini-chat-app.git
 
